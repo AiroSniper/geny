@@ -2,7 +2,7 @@ package ma.emsi.dp.singleton;
 
 public class Logger {
 	
-	  //
+	  
 	private static Logger lg = null;
 	
 	private Logger() {}
