@@ -1,4 +1,4 @@
-package ma.emsi.dp.singleton;
+package ma.dp.singleton;
 
 public class Logger {
 	
