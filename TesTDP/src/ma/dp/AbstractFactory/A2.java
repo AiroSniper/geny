@@ -1,4 +1,4 @@
-package ma.dp.fatcory;
+package ma.dp.AbstractFactory;
 
 public class A2 extends A{
 

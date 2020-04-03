@@ -1,4 +1,4 @@
-package ma.dp.fatcory;
+package ma.dp.factory;
 
 public class FactoryA2 implements Factory {
 
