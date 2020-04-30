@@ -5,6 +5,8 @@ public class TestObservateur {
 	public static void main(String[] args) {
 		
 		
+		MinistreSante ministreSante2;
+		
 		MinistreSante ministreSante=new MinistreSante();
 		
 		TV med1tv=new TV();
@@ -17,6 +19,7 @@ public class TestObservateur {
 		
 		
 		ministreSante.setNbrConvid19(200);
+		
 		
 		
 	}
