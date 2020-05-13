@@ -2,11 +2,8 @@ package ma.dp.Decorateur;
 
 import java.io.Serializable;
 
-public class Voiture implements Serializable{
+public class Voiture {
 	
-		
-	private static final long serialVersionUID = 102244477L;
-		
 	
 	private String desc;
 	private double prix;
