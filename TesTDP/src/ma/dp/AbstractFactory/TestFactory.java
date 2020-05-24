@@ -2,7 +2,7 @@ package ma.dp.AbstractFactory;
 
 public class TestFactory {
 	
-	Factory  fa1=new Factory1();
+	Factory  fa1=Factory1.getInstance();
 	
 	Factory  fa2=new Factory2();
 	
